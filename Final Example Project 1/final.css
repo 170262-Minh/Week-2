@@ -1,0 +1,19 @@
+h1 {
+    color: coral;
+    font: Arial;
+    font-size:40pt;
+    text-align: center
+}
+body {
+  background-image: url("images/paper1.jpg");
+}
+h2{
+    color: black;
+    font: Arial;
+    font-size:30pt; 
+    text-align: center
+}
+img {
+    max-width:80%;
+    height:auto;
+}
